@@ -2,7 +2,7 @@ class oddeven {
 
     public static void main(String[] args) {
 
-        int number =22212;
+        int number =3;
         if (number<0)
             System.out.println("Invaild");
 
